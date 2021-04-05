@@ -1,4 +1,7 @@
-.logo-container {
-    background-color: brown;
+.red-main-header {
+    background-color: #f72210;
+    padding-top: 15px;
+    padding-bottom: 15px;
     fill: white;
+    color: white;
 }
