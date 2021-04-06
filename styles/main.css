@@ -5,6 +5,10 @@
   fill: white;
 }
 
+.hover-red:hover {
+  color: #f72210 !important;
+}
+
 .custom-icon-size {
   font-size: 1.1rem;
 }
