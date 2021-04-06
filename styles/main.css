@@ -1,7 +1,22 @@
+/* START header */
+
 .red-main-header {
     background-color: #f72210;
-    padding-top: 15px;
-    padding-bottom: 15px;
     fill: white;
-    color: white;
 }
+
+.custom-icon-size{
+    font-size: 1.1rem;
+}
+
+@media (max-width: 769px) {
+    .custom-small-bt {
+        font-size: 0.7rem;
+    }
+
+    #bars-header {
+        font-size: 1.1rem;
+    }
+}
+
+/* START header */
