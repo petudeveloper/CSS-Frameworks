@@ -12,7 +12,7 @@ In this project, we will replicate an archived version of the Newsweek website u
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://petumazo.github.io/CSS-Frameworks/)
 
 
 ## Authors
