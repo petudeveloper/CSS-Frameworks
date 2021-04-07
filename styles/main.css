@@ -24,3 +24,15 @@
 }
 
 /* START header */
+
+/* Start features section*/
+.underline-red :hover {
+  text-decoration: underline;
+  text-decoration-color: #f72210;
+}
+/* End features section*/
+/* Start Insights */
+.border-width {
+  max-width: 735px;
+}
+
