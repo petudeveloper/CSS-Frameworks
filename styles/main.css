@@ -27,29 +27,30 @@
 
 /* START debate */
 
-  #vs-cicrcle-icon {
-    z-index: 10;
-  }
+#vs-cicrcle-icon {
+  z-index: 10;
+}
 
-  #singup-container {
-    max-width: 300px;
-  }
+#singup-container {
+  max-width: 300px;
+}
 
-  .hover-red-sub:hover {
-    text-decoration: underline !important;
-    text-decoration-color: #f72210 !important;
-  }
+.hover-red-sub:hover {
+  text-decoration: underline !important;
+  text-decoration-color: #f72210 !important;
+}
 
 /* START debate */
 
-/* Start features section*/
+/* Start features section */
 .underline-red :hover {
   text-decoration: underline;
   text-decoration-color: #f72210;
 }
-/* End features section*/
+
+/* End features section */
+
 /* Start Insights */
 .border-width {
   max-width: 735px;
 }
-
