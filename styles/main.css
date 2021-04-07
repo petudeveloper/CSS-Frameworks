@@ -24,3 +24,11 @@
 }
 
 /* START header */
+
+#featureStory-container {
+  background-color: aqua;
+}
+
+#topStory-container {
+  background-color: cadetblue;
+}
