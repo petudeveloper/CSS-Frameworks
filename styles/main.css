@@ -54,3 +54,30 @@
 .border-width {
   max-width: 735px;
 }
+
+/* staat experiment */
+.maxh {
+  max-height: none;
+}
+
+@media (min-width: 992px) {
+  .maxh {
+    max-height: 5000px;
+  }
+
+  .sticky {
+    top: 0;
+    position: sticky;
+  }
+}
+
+@media (min-width: 768px) {
+  .maxh {
+    max-height: 5000px;
+  }
+
+  .sticky {
+    top: 0;
+    position: sticky;
+  }
+}
