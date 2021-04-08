@@ -3,6 +3,11 @@
 .red-main-header {
   background-color: #f72210;
   fill: white;
+  color: white;
+}
+
+.bg-hoover-gray:hover {
+  background-color: #dbdcdd;
 }
 
 .hover-red:hover {
@@ -85,6 +90,6 @@
 }
 
 .orange-text {
-  color: #f72210;
+  color: #f72210 !important;
   text-decoration: none;
 }
