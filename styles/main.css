@@ -23,7 +23,7 @@
   font-size: 1.1rem;
 }
 
-@media (max-width: 769px) {
+@media (max-width: 768px) {
   .custom-small-bt {
     font-size: 0.7rem;
   }
