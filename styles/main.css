@@ -72,9 +72,25 @@
   max-height: none;
 }
 
+.bg-custom {
+  background-color: #f4f5f6;
+}
+
 .img-fixed {
   width: 110px;
   height: 110px;
+}
+
+.sub-img-fixed {
+  width: 261px;
+  height: 241px;
+}
+
+.sub-img-fluid {
+  background-image: url(https://web.archive.org/web/20210120125445if_/https://d.newsweek.com/en/full/1541302/starting5-homepage.png?w=397&h=265&q=90&f=742bce9a6f72dd8f19ba2e7fd5db06e5);
+  background-size: cover;
+  background-position: center;
+  height: 170px;
 }
 
 @media (min-width: 481px) {
@@ -93,6 +109,13 @@
   .sticky {
     top: 0;
     position: sticky;
+  }
+
+  .sub-img-fluid {
+    background-image: url(https://web.archive.org/web/20210120125445if_/https://d.newsweek.com/en/full/1541302/starting5-homepage.png?w=397&h=265&q=90&f=742bce9a6f72dd8f19ba2e7fd5db06e5);
+    background-size: cover;
+    background-position: center;
+    height: auto;
   }
 }
 
