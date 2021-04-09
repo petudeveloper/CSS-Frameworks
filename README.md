@@ -28,7 +28,7 @@ In this project, we will replicate an archived version of the Newsweek website u
 - GitHub: [@mariordgez](https://github.com/mariordgez)
 - Twitter: [@MarioRo75396624](https://twitter.com/MarioRo75396624)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/mario-alberto-rodriguez-cota-a2860a205)
-- 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
