@@ -2,7 +2,7 @@
 
 In this project, we will replicate an archived version of the Newsweek website using bootstrap.
 
-![screenshot](./app_screenshot.png)
+![screenshot](imgs/screenshot.png)
 
 ## Built With
 

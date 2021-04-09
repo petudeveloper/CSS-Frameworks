@@ -28,3 +28,60 @@
 }
 
 /* START header */
+
+/* START debate */
+
+#vs-cicrcle-icon {
+  z-index: 10;
+}
+
+#singup-container {
+  max-width: 300px;
+}
+
+.hover-red-sub:hover {
+  text-decoration: underline !important;
+  text-decoration-color: #f72210 !important;
+}
+
+/* START debate */
+
+/* Start features section */
+.underline-red :hover {
+  text-decoration: underline;
+  text-decoration-color: #f72210;
+}
+
+/* End features section */
+
+/* Start Insights */
+.border-width {
+  max-width: 735px;
+}
+
+/* staat experiment */
+.maxh {
+  max-height: none;
+}
+
+@media (min-width: 992px) {
+  .maxh {
+    max-height: 5000px;
+  }
+
+  .sticky {
+    top: 0;
+    position: sticky;
+  }
+}
+
+@media (min-width: 768px) {
+  .maxh {
+    max-height: 5000px;
+  }
+
+  .sticky {
+    top: 0;
+    position: sticky;
+  }
+}
