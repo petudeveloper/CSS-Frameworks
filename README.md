@@ -23,12 +23,12 @@ In this project, we will replicate an archived version of the Newsweek website u
 - Twitter: [@petudeveloper](https://twitter.com/petudeveloper)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-alvarez-mazzo-777712143/)
 
-👤 **Author2**
+👤 **Mario Alberto Rodriguez Cota**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@mariordgez](https://github.com/mariordgez)
+- Twitter: [@MarioRo75396624](https://twitter.com/MarioRo75396624)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/mario-alberto-rodriguez-cota-a2860a205)
+- 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
