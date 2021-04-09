@@ -2,7 +2,15 @@
 
 .red-main-header {
   background-color: #f72210;
-  fill: white;
+}
+
+#input-sear-top-nav {
+  width: 28%;
+  outline: none;
+}
+
+.hover-red:hover {
+  color: #f72210 !important;
 }
 
 .hover-red:hover {
@@ -18,7 +26,7 @@
   font-size: 1.1rem;
 }
 
-@media (max-width: 769px) {
+@media (max-width: 768px) {
   .custom-small-bt {
     font-size: 0.7rem;
   }
